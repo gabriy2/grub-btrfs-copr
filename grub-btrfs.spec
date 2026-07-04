@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 
 Name:           grub-btrfs
-Version:        4.13
+Version:        4.14
 Release:        1%{?dist}
 Summary:        Include btrfs snapshots at boot menu for GRUB
 
